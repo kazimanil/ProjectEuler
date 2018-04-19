@@ -17,6 +17,7 @@ Hello! This is the page, where I store my answers for the problems published on 
 - [Problem 14](https://projecteuler.net/problem=14)
 - [Problem 16](https://projecteuler.net/problem=16)
 - [Problem 19](https://projecteuler.net/problem=19)
+- [Problem 25](https://projecteuler.net/problem=25)
 - [Problem 29](https://projecteuler.net/problem=29)
 - [Problem 30](https://projecteuler.net/problem=30)
 - [Problem 31](https://projecteuler.net/problem=31)
