@@ -1,7 +1,15 @@
 # Introduction
 Hello! This is the page, where I store my answers for the problems published on [Project Euler](https://projecteuler.net/).
 
-# Solved Questions and their submission time. (DD-MM-YY)
+# Badges Acquired
+**Baby Steps** for: Solving three problems.
+![Baby Steps](https://projecteuler.net/images/awards/award_01.png) 
+
+**Decathlete** for: Solving ten consecutive problems.
+![Decathlete](https://projecteuler.net/images/awards/award_02.png)
+
+# Solved Questions 
+And of course their submission time. (DD-MM-YY)
 - [Problem 1](https://projecteuler.net/problem=1)  ( 08-11-2017 )
 - [Problem 2](https://projecteuler.net/problem=2)  ( 08-11-2017 )
 - [Problem 3](https://projecteuler.net/problem=3)  ( 09-04-2018 )
