@@ -22,4 +22,4 @@ for(i in 1:20){
     }
   }
 }
-maxprod #
+maxprod #70600674
