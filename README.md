@@ -18,6 +18,7 @@ Hello! This is the page, where I store my answers for the problems published on 
 - [Problem 14](https://projecteuler.net/problem=14) ( 19-04-2018 )
 - [Problem 16](https://projecteuler.net/problem=16) ( 19-04-2018 )
 - [Problem 19](https://projecteuler.net/problem=19) ( 09-11-2017 )
+- [Problem 20](https://projecteuler.net/problem=20) ( 20-04-2018 )
 - [Problem 25](https://projecteuler.net/problem=25) ( 19-04-2018 )
 - [Problem 29](https://projecteuler.net/problem=29) ( 16-04-2018 )
 - [Problem 30](https://projecteuler.net/problem=30) ( 09-04-2018 )
