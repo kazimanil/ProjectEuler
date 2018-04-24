@@ -2,14 +2,19 @@
 Hello! This is the page, where I store my answers for the problems published on [Project Euler](https://projecteuler.net/).
 
 # Badges Acquired
-**Baby Steps** for: Solving three problems.
+
 ![Baby Steps](https://projecteuler.net/images/awards/award_01.png) 
 
-**Decathlete** for: Solving ten consecutive problems.
+**Baby Steps** for: Solving three problems.
+
 ![Decathlete](https://projecteuler.net/images/awards/award_02.png)
 
+**Decathlete** for: Solving ten consecutive problems.
+
+![The Journey Begins](https://projecteuler.net/images/awards/award_03.png)
+
 **The Journey Begins** for: Progressing to *Level 1* by solving twenty-five problems.
-![Decathlete](https://projecteuler.net/images/awards/award_03.png)
+
 
 # Solved Questions 
 
