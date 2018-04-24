@@ -8,6 +8,9 @@ Hello! This is the page, where I store my answers for the problems published on 
 **Decathlete** for: Solving ten consecutive problems.
 ![Decathlete](https://projecteuler.net/images/awards/award_02.png)
 
+**The Journey Begins** for: Progressing to *Level 1* by solving twenty-five problems.
+![Decathlete](https://projecteuler.net/images/awards/award_03.png)
+
 # Solved Questions 
 
 And of course their submission time. (DD-MM-YY)
@@ -35,4 +38,5 @@ And of course their submission time. (DD-MM-YY)
 - [Problem 30](https://projecteuler.net/problem=30) ( 09-04-2018 )
 - [Problem 31](https://projecteuler.net/problem=31) ( 19-04-2018 )
 - [Problem 34](https://projecteuler.net/problem=34) ( 12-11-2017 )
-- [Problem 37](https://projecteuler.net/problem=34) ( 24-04-2018 )
+- [Problem 37](https://projecteuler.net/problem=37) ( 24-04-2018 )
+- [Problem 40](https://projecteuler.net/problem=40) ( 24-04-2018 )
