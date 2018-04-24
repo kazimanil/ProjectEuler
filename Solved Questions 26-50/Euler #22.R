@@ -1,8 +1,10 @@
 # There is a name called NA which is read as a NULL cell by R. Thus, I have renamed it as NA* to avoid this problem.
 
 names <- data.table(names = t(fread("names.txt", sep = ",", header = FALSE, encoding = "UTF-8")))
-names <- names[,.(name = as.character(names.V1))][order(name)]
-names[, index := .I]
+names <- names[,.(name = as.character(names.V1))]
+# Somehow R's lexicographic order is wrong. this is fixed with ordering below.
+# names <- names[order(name)]
+# names[, index := .I]
 
 nr <- function(x){
   changelist <- data.table(letters = letters,
@@ -29,7 +31,7 @@ names[, ':='(Char1  = number_replacer(str_split_fixed(name, "", maxchars)[, 1 ])
              Char11 = number_replacer(str_split_fixed(name, "", maxchars)[, 11]))]
 
 names[, CharSum := Char1 + Char2 + Char3 + Char4 + Char5 + Char6 + Char7 + Char8 + Char9 + Char10 + Char11]
+names <- names[order(Char1, Char2, Char3, Char4, Char5, Char6, Char7, Char8, Char9, Char10, Char11)]
+names[, index := .I]
 names[, QValue := index * CharSum]
-sum(names$QValue) #871196672
-
-# I could not find why my answer is incorrect. Thus this is an incomplete one.
+names[, sum(QValue)] #871198282
