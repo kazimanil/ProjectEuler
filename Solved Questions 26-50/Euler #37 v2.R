@@ -1,4 +1,4 @@
-## Note: I would like to thank [Sabri Karagonen](https://www.kaggle.com/sabrikaragonen) for his kind comments which enabled this updated version.
+## Note: I would like to thank [Sabri Karagonen](https://github.com/sabrikaragonen) for his kind comments which enabled this updated version.
 
 ## Functions ----
 rm(list = ls())
